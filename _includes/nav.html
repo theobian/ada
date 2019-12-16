@@ -1,8 +1,11 @@
 {%- if site.texture.showNav -%}
 <div class="navbar">
 	<ul>
-		<a href="#"><li>Home</li></a>
-		<a href="#"><li>About</li></a>
+		<a href="{{site.url}}{{site.baseurl}}"><li>Home</li></a>
+		{%- for post in site.posts -%}
+			<a href="{{site.url}}{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
+		{%- endfor -%}
+
 	</ul>
 </div>
 {%- endif -%}
