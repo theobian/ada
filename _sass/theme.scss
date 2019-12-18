@@ -48,6 +48,14 @@ h2 {
 	@include fluidType(28px, 32px);
 }
 
+h5 {
+	font-weight: bold;
+	@include fluidType(18px, 18px);
+	margin-left: 80px;
+	margin-right: - 700px;
+
+}
+
 h4 {
 	font-weight: normal;
 	@include fluidType(18px, 20px);
@@ -198,6 +206,7 @@ header {
 	>li {
 		margin-bottom: 30px;
 		padding-bottom: 20px;
+		margin-left: 5px;
 		&:not(:last-child) {
 			border-bottom: 1px solid $lightGray;
 		}
@@ -206,6 +215,8 @@ header {
 
 .posts, .post-container {
 	margin-top: 40px;
+	margin-left: 10%;
+	margin-right: -90%;
 }
 
 .post-meta {
@@ -219,14 +230,16 @@ header {
 
 .post-container {
 	img {
-		margin: 20px 0;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
 
 .navbar {
 	position: absolute;
-	top: 0;
-	right: 5vw;
+	top: 0px;
+	margin-left:900px;
 	a {
 		color: inherit;
 	}

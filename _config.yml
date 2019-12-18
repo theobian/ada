@@ -1,7 +1,7 @@
 title: Texture Theme
 author: GitHub User
 email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
+description:  # this means to ignore newlines until "show_exerpts:"
   Investigating the FAO Dataset
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl: /ada_idk/
