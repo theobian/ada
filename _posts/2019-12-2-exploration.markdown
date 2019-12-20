@@ -198,9 +198,7 @@ In 2017, there was 3 chickens per living person on earth.
 
 #### 2. Evolution of production of Livestock products
 
-We can ommit the itemgroup `Meat, total` as it comprises of all other item groups related to meat, and drop the elements that are not summable (related to yield).
-Also, we need to be careful as `Meat indigenous, total` intersects with `Meat indigenous, poultry`
-
+Let's look at the worldwide evolution of livestock production per year.
 
 
 
