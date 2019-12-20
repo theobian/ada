@@ -51,6 +51,9 @@ h2 {
 h5 {
 	font-weight: bold;
 	@include fluidType(18px, 18px);
+	margin-left: 80px;
+	margin-right: - 600px;
+
 }
 
 h4 {
@@ -212,8 +215,9 @@ header {
 
 .posts, .post-container {
 	margin-top: 40px;
-	float: left;
-	margin-right: -10%;
+	float: left
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .post-meta {
