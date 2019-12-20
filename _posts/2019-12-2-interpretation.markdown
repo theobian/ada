@@ -151,7 +151,11 @@ The map looks much better now. We can see which countries stand out: Australia a
 ---
 Before pursuing further, it would also be useful to have an evolution of emissions of different countries over time. Such a visualization requires us to use interactive maps with a slider to change the years
 
-{% include img/country_emissions.html %}
+<div class="image">
+    {% include img/country_emissions.html %}
+</div>
+
+
 ---
 ## 2. How has the agriculture industry evolved in the time frame ?
 ---
@@ -265,9 +269,10 @@ We thought it would be interesting to visualize the top production of livestock/
 #### 1. Evolution top crop production
 
 {% include img/top_crop_produce.html  %}
-{% include img/top_livestock_produce.html %}
-{% include img/country_emissions.html %}
 
+#### 2. Evolution top livestock production
+
+{% include img/top_livestock_produce.html %}
 
 
 
