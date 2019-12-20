@@ -74,5 +74,5 @@ As seen in part II.1, there are 6 different emission types that are due to Live 
 However due to time constraints, we could not train such a model, but believe it would be rather precise and would give us a nice idea of future predictions.
 
 We instead projected the emissions using the same model architecture as above.
-
+	
 ![png](assets/img/output_108_0.png)
