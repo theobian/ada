@@ -232,9 +232,85 @@ We can see that chicken is lacking the Calcium, Iron and Vitamin B-12 when compa
 
 
 
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ingredient</th>
+      <th>nutrient</th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>7030</th>
+      <td>Milk, whole, 3.25% milkfat, without added vita...</td>
+      <td>Calcium</td>
+      <td>113.0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 Milk is a good substitute for Calcium.
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ingredient</th>
+      <th>nutrient</th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>46031</th>
+      <td>Cereals ready-to-eat, granola, homemade</td>
+      <td>Iron</td>
+      <td>3.95</td>
+    </tr>
+    <tr>
+      <th>111031</th>
+      <td>Lentils, raw</td>
+      <td>Iron</td>
+      <td>6.51</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 Granola is made from different cereals (here: wheat) and oats and is a good substitute for Iron deficiencies. Lentils are another good substitute. It is harder to find Vitamin B-12 ingredients that could replace beef.
 
 
