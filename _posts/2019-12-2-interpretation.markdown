@@ -228,15 +228,6 @@ What this graph tells us:
 #### 3. Evolution of Crops production
 
 
-
-    The elements are: 
-    
-        elementcode         element    unit
-    0          5312  Area harvested      ha
-    43         5419           Yield   hg/ha
-    85         5510      Production  tonnes
-    
-
 The `itemgroups` here are quite overlapping, and it is hard to actually decide which to drop and which not. For visualization purposes, we will keep all item groups, but the some itemgroups intersect and are not exclusive. 
 
 The itemgroup `All crops` has been dropped, as it overlaps with a lot of other groups. However, we kept all items that are only present in this itemgroup and named the new itemgroup `Other crops`
