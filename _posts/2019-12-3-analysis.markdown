@@ -2287,7 +2287,7 @@ This would also mean reducing the amount of produce generated from cattle: Milk,
 
 
 
-###3.4. Exploring nonlinear correlations
+### 3.4. Exploring nonlinear correlations
 
 In order to better understand our dataset, we wished to develop an anlaytic method for measuring non-linear dependencies between our different time series data. More specifically, we want to analyse the impact of the multivariate timeseries across timestamps [t-n,t] on a target time series at timestamp t. 
 
