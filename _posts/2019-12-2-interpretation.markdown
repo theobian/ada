@@ -4,9 +4,6 @@ title:  "1: Exploration"
 description: Interpretating results.
 ---
 
-# Environmental Impact of Agricultural Practices in the World
-
-
 ---
 ---
 # Part I: Exploration

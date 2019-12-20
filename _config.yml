@@ -4,16 +4,17 @@ email: your-email@domain.com
 description:  # this means to ignore newlines until "show_exerpts:"
   Investigating the FAO Dataset
 show_excerpts: false # set to true to show excerpts on the homepage
-baseurl: /ada
+baseurl: /ada/
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 
-permalink: /:title
+permalink: :title
 texture:
-  title: Agriculture and Environment
-  tagline: ADA 2019
+  title: "Environmental Impact of Agricultural Practices in the World"
+  tagline: "CS401 - 2019/2020"
+  authorline: "T. Bian, E. Holzl, R. Laporte"
   date_format: "%b %-d, %Y"
   style: blue
   showNav: true

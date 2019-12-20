@@ -5,10 +5,17 @@ description: Investigating nutritional values.
 ---
 
 
-## Constructing a diet based on nutrient needs
+---
+---
+# Part IV: Constructing a diet based on nutrient needs
+---
+---
+We will now take investigate whether it is reasonable to slightly alter the world's diet in order to reduce emission per capita. We will focus our attention on cattle meat and rice which are two of the biggest culprit in GHG agricultural emissions.
 
+---
+## 1. Diet diversity
+---
 
-### Diet diversity
 Nutrients are contained in different quantities in different commodities; for example:
 - roots and tubers contain a lot of vitamin A but a low amount of protein
 - livestock and fish contain a lot of protein and vitamin B12
@@ -27,8 +34,9 @@ Plants are a fairly poor substitute for some of the nutrients meat provides. For
 A diet relying more on plants rather than solely on meat is in accordance with most health councils and organizations. 
 Vitamin B12 is mainly found in meat. Vitamin A is mainly found in butter, liver, and in carotenoids to some extent. Thiamin is found in meat and dairy, and cereals to a lesser extent. Calcium is mainly found in milk dairy, and cereals and vegetables to a much lesser extent. 
 
-
-## Creating a nutrient list
+---
+## 2. Creating a nutrient list
+---
 These nutrients are deemed to be essential not only because of their paramount importance to a healthy diet but also because of the fact that there exists widespread deficiencies worldwide.
 
 Some of these can be easily manufactured and distributed (e.g. iodine). We will only focus on a subset of nutrients, and look at protein content, fiber content, lipid content, vitamin content and mineral content of given foods in order to construct a "healthy" diet (meaning one that provides good nutrient intake).
@@ -41,8 +49,9 @@ Some of these can be easily manufactured and distributed (e.g. iodine). We will 
     - Vitamins: A, B6, B9, B12, C, D, E
     - Minerals : Fe, Ca
     
-
-# Nutrient value database
+---
+## 3. Nutrient value database
+---
 In parallel with the evaluation of the environmental impact of livestock and crops, we need to decide which food yield the best (or at least a good/healthy enough) nutritive value. 
 To do this, after having decided on certain categories of nutrients (vitamins / fibers / etc...), we will check that the nutrients that we plan on using contain enough nutritive value using this database:
 
