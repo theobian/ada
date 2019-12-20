@@ -260,7 +260,6 @@ We can see that chicken is lacking the Calcium, Iron and Vitamin B-12 when compa
   </thead>
   <tbody>
     <tr>
-      <th>7030</th>
       <td>Milk, whole, 3.25% milkfat, without added vita...</td>
       <td>Calcium</td>
       <td>113.0</td>
@@ -297,13 +296,11 @@ Milk is a good substitute for Calcium.
   </thead>
   <tbody>
     <tr>
-      <th>46031</th>
       <td>Cereals ready-to-eat, granola, homemade</td>
       <td>Iron</td>
       <td>3.95</td>
     </tr>
     <tr>
-      <th>111031</th>
       <td>Lentils, raw</td>
       <td>Iron</td>
       <td>6.51</td>
