@@ -268,11 +268,15 @@ We thought it would be interesting to visualize the top production of livestock/
 
 #### 1. Evolution top crop production
 
-{% include img/top_crop_produce.html  %}
+<div class="image">
+    {% include img/top_crop_produce.html  %}
+</div>
 
 #### 2. Evolution top livestock production
 
-{% include img/top_livestock_produce.html %}
+<div class="image">
+    {% include img/top_livestock_produce.html %}
+</div>
 
 
 
