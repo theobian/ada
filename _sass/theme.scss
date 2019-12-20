@@ -52,7 +52,7 @@ h5 {
 	font-weight: bold;
 	@include fluidType(18px, 18px);
 	margin-left: 80px;
-	margin-right: - 700px;
+	margin-right: - 600px;
 
 }
 
@@ -237,28 +237,28 @@ header {
 }
 
 .navbar {
-	position: absolute;
-	top: 0px;
-	margin-left:900px;
+	position: fixed;
+	top: -20px;
+	right: 0.5px;
 	a {
-		color: inherit;
+		color: black;
 	}
 	ul {
 		list-style-type: none;
 		li {
-			// background-color: #ff9f1c;
-			border: 1px solid #fff;
-			float: left;
-			// margin: 5px;
+			// background-color: #1A51A4;
+			border: 1px solid #000000;
+			float: top;
+			// margin: 10px;
 			&:not(:first-child){
 				border-left: 0;
 			}
 			padding: 10px 25px;
-			// border-radius: 4px;
+			// border-radius: 8px;
 			@include fluidType(15px, 17px);
 			transition: background-color .3s ease-in;
 			&:hover {
-				background-color: rgba(#fff, 0.15);
+				background-color: rgba(#001bff, 0.15);
 				cursor: pointer;
 			}
 		}

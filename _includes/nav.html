@@ -2,7 +2,7 @@
 <div class="navbar">
 	<ul>
 		<a href="{{site.url}}{{site.baseurl}}"><li>Home</li></a>
-		{%- for post in site.posts -%}
+		{%- for post in site.posts reversed -%}
 			<a href="{{site.url}}{{site.baseurl}}{{post.url}}"><li>{{post.title}}</li></a>
 		{%- endfor -%}
 
